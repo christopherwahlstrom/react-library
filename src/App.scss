@@ -1,0 +1,104 @@
+$headerBg: #2B4B83;
+$headerFg: #92B5F3;
+$footerBg: #1D232D;
+$footerFg: #B2B9C6;
+$mainBg: #F3F7FC;
+$buttonBg: #819FD2;
+$buttonHighlight: #B3CAF2;
+$buttonReturnHighlight: #9DB5DE;
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#app {
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	flex-direction: column;
+}
+
+header,
+main,
+footer {
+	padding: 1em;
+}
+
+header {
+	background-color: $headerBg;
+	color: $headerFg;
+	font-size: 1.4em;
+}
+
+main {
+	flex-grow: 1;
+	color: $footerBg;
+	background-color: $mainBg;
+}
+
+footer {
+	background-color: $footerBg;
+	color: $footerFg;
+	padding: 2em 1em;
+}
+
+h1,
+h2,
+h3 {
+	color: $footerBg;
+}
+
+.card {
+	border: 1px solid $headerBg;
+	border-radius: 1em;
+	padding: 0.5em 1em;
+	margin: 0.4em;
+    flex-direction: column;
+}
+
+.card button {
+	background-color: $buttonBg;
+	border-radius: 1em;
+	border: none;
+	padding: 0.3em 1.5em;
+	transition: all 0.4s;
+
+	&:hover {
+		cursor: pointer;
+		background-color: $buttonHighlight;
+	}
+}
+
+.card button.return {
+	background-color: #3B6FCB;
+	color: $headerFg;
+
+	&:hover {
+		background-color: $buttonReturnHighlight;
+		color: $headerBg;
+	}
+}
+
+.card h3,
+p {
+	margin: 0;
+	margin-bottom: 0.5em;
+}
+
+.card img {
+	display: block;
+	width: 100%;
+	height: 8em;
+	// border: 1px solid gray;
+	background: lightgray;
+}
+
+.card .separator {
+    flex-grow: 1;
+}
+
+.book-grid {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+}

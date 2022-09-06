@@ -1,0 +1,82 @@
+{
+	"books": [
+		{
+			"title": "Kapitalet",
+			"author": "Karl Marx",
+			"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41QR9HN8aKL._SX324_BO1,204,203,200_.jpg",
+			"bookId": 1
+		},
+		{
+			"title": "Mistborn: the final empire",
+			"author": "Brandon Sanderson",
+			"imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617768316i/68428._SY180_.jpg",
+			"bookId": 2
+		},
+		{
+			"title": "Mistborn: the well of ascension",
+			"author": "Brandon Sanderson",
+			"imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619538925i/68429._SY180_.jpg",
+			"bookId": 3
+		},
+		{
+			"title": "Mistborn: the hero of ages",
+			"author": "Brandon Sanderson",
+			"imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628563911i/2767793._SY180_.jpg",
+			"bookId": 4
+		},
+		{
+			"title": "Lord of the rings: the fellowship of the rings",
+			"author": "J.R.R. Tolkien",
+			"imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654215925i/61215351._SY180_.jpg",
+			"bookId": 5
+		},
+		{
+			"title": "Lord of the rings: the two towers",
+			"author": "J.R.R. Tolkien",
+			"imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654216149i/61215372._SY180_.jpg",
+			"bookId": 6
+		},
+		{
+			"title": "Lord of the rings: the return of the king",
+			"author": "J.R.R. Tolkien",
+			"imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654216226i/61215384._SY180_.jpg",
+			"bookId": 7
+		},
+		{
+			"title": "The Fortunes of Jaded Women",
+			"author": "Carolyn Huynh",
+			"imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662304866l/59894742._SY475_.jpg",
+			"bookId": 8
+		},
+		{
+			"title": "People person",
+			"author": "Candice Carty-Williams",
+			"imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660752887l/59830251.jpg",
+			"bookId": 9
+		},
+		{
+			"title": "The winners",
+			"author": "Fredrik Backman",
+			"imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661964287l/60209470.jpg",
+			"bookId": 10
+		},
+		{
+			"title": "Our missing hearts",
+			"author": "Celeste Ng",
+			"imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649256095l/60149573.jpg",
+			"bookId": 11
+		},
+		{
+			"title": "Hester",
+			"author": "Laurie Lico Albanese",
+			"imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659421275l/59807978.jpg",
+			"bookId": 12
+		},
+		{
+			"title": "Mad honey",
+			"author": "Jodi Picoult and Jennifer Finney Boylan",
+			"imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642705453l/59912428.jpg",
+			"bookId": 13
+		}
+	]
+}
